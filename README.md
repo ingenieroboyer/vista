@@ -1,22 +1,16 @@
-# primer
+# Vistas
 
-> My legendary Nuxt.js project
+> Tenemos la capa de imagen
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# instalar dependencias
 $ npm run install
 
-# serve with hot reload at localhost:3000
+# servir con recarga caliente localhost:3000
 $ npm run dev
 
-# build for production and launch server
+# construcción y lanzamiento a producción
 $ npm run build
 $ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).

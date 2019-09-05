@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        primer
+        DISEÑO
       </h1>
       <h2 class="subtitle">
-        My legendary Nuxt.js project
+        Capa presentación
       </h2>
       <div class="links">
         <a
@@ -36,7 +36,7 @@ export default {
     Logo
   },
   head:{
-    title:'Esta es mi página demo'
+    title:'Página demo'
   }
 }
 </script>
